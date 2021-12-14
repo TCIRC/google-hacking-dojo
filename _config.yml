@@ -9,3 +9,4 @@ kramdown:
   syntax_highlighter: rouge
 exclude:
   - index.html
+encoding: UTF-8
