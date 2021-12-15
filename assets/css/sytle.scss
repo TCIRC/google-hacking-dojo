@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 
 main {
     font-family: 'Times New Roman', Times, serif;
