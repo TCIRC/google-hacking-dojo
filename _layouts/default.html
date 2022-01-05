@@ -3,6 +3,10 @@
   {% include head.html %}
   <body>
       {{ content }}
-      <script>document.querySelector('.page-heading').remove()</script>
+      <script>
+        document.querySelector('.page-heading').remove();
+        document.querySelector('.post-title').remove();
+        
+      </script>
   </body>
 </html>
