@@ -1,4 +1,4 @@
-# Index of //supersupersupersupersupersupersupersupersuper/serect/document/no/flag/inside
+# Index of /supersupersupersupersupersupersupersupersuper/serect/document/no/flag/inside
 
 | | Name  | Last modified | Size | Description |
 | ----- | ------------- | ---- | ------------ |
