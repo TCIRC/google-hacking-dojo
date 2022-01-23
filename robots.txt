@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Disallow:/supersupersupersupersupersupersupersupersuper/serect/document/no/flag/inside
