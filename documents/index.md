@@ -1,4 +1,4 @@
-# Index of /images
+# Index of /documents
 
 | | Name  | Last modified | Size | Description |
 | ----- | ------------- | ---- | ------------ |
@@ -15,4 +15,3 @@
 | | [支語警察.docx](支語警察.docx)  | 14-Dec-2021 06:17  | 4,744KB  | |
 | | [機密文件.docx](機密文件.docx)  | 14-Dec-2021 06:17  | 5,178KB  | |
 | | [火星文翻譯.docx](火星文翻譯.docx)  | 14-Dec-2021 06:17  | 8,538KB  | |
-

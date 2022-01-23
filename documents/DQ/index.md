@@ -1,4 +1,4 @@
-# Index of /images
+# Index of /documents/DQ
 
 | | Name  | Last modified | Size | Description |
 | ----- | ------------- | ---- | ------------ |
